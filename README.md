@@ -2,7 +2,7 @@
 
 Projede temel CRUD işlemler olan ve var olan kargo verileri üzerinde listeleme, güncelleme, arama, silme ve ekleme işlemleri REST çağrıları üzerinden yapılan bir web uygulamasıdır.
 Projede Asp.Net Core Web App, Asp.Net Core Web Api, .Net Core Framework kullanılmıştır.
-Veritabanı olarak MsSql ve projede veritabanı erişimi için Entity Framework Core kullanılmıştır.
+Veritabanı olarak MsSql ve projede veritabanı erişimi için Entity Framework Core kullanılmıştır (Ayrıca veritabanı scripti repository içine eklenmiştir).
 Generic bir web uygulaması tasarlamak istenildiğinden veritabanı işlemleri için Repository Pattern tasarım deseni kullanılmıştır.
 Proje sağlıklı bir şekilde çalışmaktadır.
 Proje testi için POSTMAN uygulaması kullanılmıştır.
